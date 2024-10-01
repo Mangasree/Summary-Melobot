@@ -78,6 +78,8 @@ Tips for Using Melobot Effectively
 
 3. Use Descriptive Keywords: Incorporate key words like "happy," "depressed," "excited," "romantic," "love," "break up," "wedding," "festive," etc., to enhance the accuracy of the song recommendations.
 
+4. Device Limitations: Please note that only song previews will be available on mobile devices; the full song will play when accessed on laptops and desktops.
+
 
 🚀Note 🚀
 
