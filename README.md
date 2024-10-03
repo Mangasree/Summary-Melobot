@@ -80,7 +80,3 @@ Tips for Using Melobot Effectively
 
 4. Device Limitations: Please note that only song previews will be available on mobile devices; the full song will play when accessed on laptops and desktops.
 
-
-🚀Note 🚀
-
-The source code for Melobot is stored in a private repository. If you are interested in accessing the code, please contact me for access.
